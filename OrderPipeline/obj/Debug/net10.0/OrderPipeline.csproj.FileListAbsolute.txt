@@ -1,0 +1,14 @@
+C:\Users\Эдуард\Desktop\work\Альбина\OrderPipeline\bin\Debug\net10.0\OrderPipeline.exe
+C:\Users\Эдуард\Desktop\work\Альбина\OrderPipeline\bin\Debug\net10.0\OrderPipeline.deps.json
+C:\Users\Эдуард\Desktop\work\Альбина\OrderPipeline\bin\Debug\net10.0\OrderPipeline.runtimeconfig.json
+C:\Users\Эдуард\Desktop\work\Альбина\OrderPipeline\bin\Debug\net10.0\OrderPipeline.dll
+C:\Users\Эдуард\Desktop\work\Альбина\OrderPipeline\bin\Debug\net10.0\OrderPipeline.pdb
+C:\Users\Эдуард\Desktop\work\Альбина\OrderPipeline\obj\Debug\net10.0\OrderPipeline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Эдуард\Desktop\work\Альбина\OrderPipeline\obj\Debug\net10.0\OrderPipeline.AssemblyInfoInputs.cache
+C:\Users\Эдуард\Desktop\work\Альбина\OrderPipeline\obj\Debug\net10.0\OrderPipeline.AssemblyInfo.cs
+C:\Users\Эдуард\Desktop\work\Альбина\OrderPipeline\obj\Debug\net10.0\OrderPipeline.csproj.CoreCompileInputs.cache
+C:\Users\Эдуард\Desktop\work\Альбина\OrderPipeline\obj\Debug\net10.0\OrderPipeline.dll
+C:\Users\Эдуард\Desktop\work\Альбина\OrderPipeline\obj\Debug\net10.0\refint\OrderPipeline.dll
+C:\Users\Эдуард\Desktop\work\Альбина\OrderPipeline\obj\Debug\net10.0\OrderPipeline.pdb
+C:\Users\Эдуард\Desktop\work\Альбина\OrderPipeline\obj\Debug\net10.0\OrderPipeline.genruntimeconfig.cache
+C:\Users\Эдуард\Desktop\work\Альбина\OrderPipeline\obj\Debug\net10.0\ref\OrderPipeline.dll

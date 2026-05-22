@@ -1,0 +1,14 @@
+C:\Users\Эдуард\Desktop\work\Альбина\GenericOrder\bin\Debug\net10.0\GenericOrder.exe
+C:\Users\Эдуард\Desktop\work\Альбина\GenericOrder\bin\Debug\net10.0\GenericOrder.deps.json
+C:\Users\Эдуард\Desktop\work\Альбина\GenericOrder\bin\Debug\net10.0\GenericOrder.runtimeconfig.json
+C:\Users\Эдуард\Desktop\work\Альбина\GenericOrder\bin\Debug\net10.0\GenericOrder.dll
+C:\Users\Эдуард\Desktop\work\Альбина\GenericOrder\bin\Debug\net10.0\GenericOrder.pdb
+C:\Users\Эдуард\Desktop\work\Альбина\GenericOrder\obj\Debug\net10.0\GenericOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Эдуард\Desktop\work\Альбина\GenericOrder\obj\Debug\net10.0\GenericOrder.AssemblyInfoInputs.cache
+C:\Users\Эдуард\Desktop\work\Альбина\GenericOrder\obj\Debug\net10.0\GenericOrder.AssemblyInfo.cs
+C:\Users\Эдуард\Desktop\work\Альбина\GenericOrder\obj\Debug\net10.0\GenericOrder.csproj.CoreCompileInputs.cache
+C:\Users\Эдуард\Desktop\work\Альбина\GenericOrder\obj\Debug\net10.0\GenericOrder.dll
+C:\Users\Эдуард\Desktop\work\Альбина\GenericOrder\obj\Debug\net10.0\refint\GenericOrder.dll
+C:\Users\Эдуард\Desktop\work\Альбина\GenericOrder\obj\Debug\net10.0\GenericOrder.pdb
+C:\Users\Эдуард\Desktop\work\Альбина\GenericOrder\obj\Debug\net10.0\GenericOrder.genruntimeconfig.cache
+C:\Users\Эдуард\Desktop\work\Альбина\GenericOrder\obj\Debug\net10.0\ref\GenericOrder.dll

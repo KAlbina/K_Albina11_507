@@ -1,0 +1,14 @@
+C:\Users\Эдуард\Desktop\work\Альбина\GhostTrap\bin\Debug\net10.0\GhostTrap.exe
+C:\Users\Эдуард\Desktop\work\Альбина\GhostTrap\bin\Debug\net10.0\GhostTrap.deps.json
+C:\Users\Эдуард\Desktop\work\Альбина\GhostTrap\bin\Debug\net10.0\GhostTrap.runtimeconfig.json
+C:\Users\Эдуард\Desktop\work\Альбина\GhostTrap\bin\Debug\net10.0\GhostTrap.dll
+C:\Users\Эдуард\Desktop\work\Альбина\GhostTrap\bin\Debug\net10.0\GhostTrap.pdb
+C:\Users\Эдуард\Desktop\work\Альбина\GhostTrap\obj\Debug\net10.0\GhostTrap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Эдуард\Desktop\work\Альбина\GhostTrap\obj\Debug\net10.0\GhostTrap.AssemblyInfoInputs.cache
+C:\Users\Эдуард\Desktop\work\Альбина\GhostTrap\obj\Debug\net10.0\GhostTrap.AssemblyInfo.cs
+C:\Users\Эдуард\Desktop\work\Альбина\GhostTrap\obj\Debug\net10.0\GhostTrap.csproj.CoreCompileInputs.cache
+C:\Users\Эдуард\Desktop\work\Альбина\GhostTrap\obj\Debug\net10.0\GhostTrap.dll
+C:\Users\Эдуард\Desktop\work\Альбина\GhostTrap\obj\Debug\net10.0\refint\GhostTrap.dll
+C:\Users\Эдуард\Desktop\work\Альбина\GhostTrap\obj\Debug\net10.0\GhostTrap.pdb
+C:\Users\Эдуард\Desktop\work\Альбина\GhostTrap\obj\Debug\net10.0\GhostTrap.genruntimeconfig.cache
+C:\Users\Эдуард\Desktop\work\Альбина\GhostTrap\obj\Debug\net10.0\ref\GhostTrap.dll

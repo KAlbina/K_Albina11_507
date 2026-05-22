@@ -1,0 +1,14 @@
+C:\Users\Эдуард\Desktop\work\Альбина\StudentsJson\bin\Debug\net10.0\StudentsJson.exe
+C:\Users\Эдуард\Desktop\work\Альбина\StudentsJson\bin\Debug\net10.0\StudentsJson.deps.json
+C:\Users\Эдуард\Desktop\work\Альбина\StudentsJson\bin\Debug\net10.0\StudentsJson.runtimeconfig.json
+C:\Users\Эдуард\Desktop\work\Альбина\StudentsJson\bin\Debug\net10.0\StudentsJson.dll
+C:\Users\Эдуард\Desktop\work\Альбина\StudentsJson\bin\Debug\net10.0\StudentsJson.pdb
+C:\Users\Эдуард\Desktop\work\Альбина\StudentsJson\obj\Debug\net10.0\StudentsJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Эдуард\Desktop\work\Альбина\StudentsJson\obj\Debug\net10.0\StudentsJson.AssemblyInfoInputs.cache
+C:\Users\Эдуард\Desktop\work\Альбина\StudentsJson\obj\Debug\net10.0\StudentsJson.AssemblyInfo.cs
+C:\Users\Эдуард\Desktop\work\Альбина\StudentsJson\obj\Debug\net10.0\StudentsJson.csproj.CoreCompileInputs.cache
+C:\Users\Эдуард\Desktop\work\Альбина\StudentsJson\obj\Debug\net10.0\StudentsJson.dll
+C:\Users\Эдуард\Desktop\work\Альбина\StudentsJson\obj\Debug\net10.0\refint\StudentsJson.dll
+C:\Users\Эдуард\Desktop\work\Альбина\StudentsJson\obj\Debug\net10.0\StudentsJson.pdb
+C:\Users\Эдуард\Desktop\work\Альбина\StudentsJson\obj\Debug\net10.0\StudentsJson.genruntimeconfig.cache
+C:\Users\Эдуард\Desktop\work\Альбина\StudentsJson\obj\Debug\net10.0\ref\StudentsJson.dll

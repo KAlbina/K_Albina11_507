@@ -1,0 +1,14 @@
+C:\Users\Эдуард\Desktop\work\Альбина\HeroForge\bin\Debug\net10.0\HeroForge.exe
+C:\Users\Эдуард\Desktop\work\Альбина\HeroForge\bin\Debug\net10.0\HeroForge.deps.json
+C:\Users\Эдуард\Desktop\work\Альбина\HeroForge\bin\Debug\net10.0\HeroForge.runtimeconfig.json
+C:\Users\Эдуард\Desktop\work\Альбина\HeroForge\bin\Debug\net10.0\HeroForge.dll
+C:\Users\Эдуард\Desktop\work\Альбина\HeroForge\bin\Debug\net10.0\HeroForge.pdb
+C:\Users\Эдуард\Desktop\work\Альбина\HeroForge\obj\Debug\net10.0\HeroForge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Эдуард\Desktop\work\Альбина\HeroForge\obj\Debug\net10.0\HeroForge.AssemblyInfoInputs.cache
+C:\Users\Эдуард\Desktop\work\Альбина\HeroForge\obj\Debug\net10.0\HeroForge.AssemblyInfo.cs
+C:\Users\Эдуард\Desktop\work\Альбина\HeroForge\obj\Debug\net10.0\HeroForge.csproj.CoreCompileInputs.cache
+C:\Users\Эдуард\Desktop\work\Альбина\HeroForge\obj\Debug\net10.0\HeroForge.dll
+C:\Users\Эдуард\Desktop\work\Альбина\HeroForge\obj\Debug\net10.0\refint\HeroForge.dll
+C:\Users\Эдуард\Desktop\work\Альбина\HeroForge\obj\Debug\net10.0\HeroForge.pdb
+C:\Users\Эдуард\Desktop\work\Альбина\HeroForge\obj\Debug\net10.0\HeroForge.genruntimeconfig.cache
+C:\Users\Эдуард\Desktop\work\Альбина\HeroForge\obj\Debug\net10.0\ref\HeroForge.dll

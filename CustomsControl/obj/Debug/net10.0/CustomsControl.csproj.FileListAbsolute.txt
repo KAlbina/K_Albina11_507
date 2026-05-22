@@ -1,0 +1,14 @@
+C:\Users\Эдуард\Desktop\work\Альбина\CustomsControl\bin\Debug\net10.0\CustomsControl.exe
+C:\Users\Эдуард\Desktop\work\Альбина\CustomsControl\bin\Debug\net10.0\CustomsControl.deps.json
+C:\Users\Эдуард\Desktop\work\Альбина\CustomsControl\bin\Debug\net10.0\CustomsControl.runtimeconfig.json
+C:\Users\Эдуард\Desktop\work\Альбина\CustomsControl\bin\Debug\net10.0\CustomsControl.dll
+C:\Users\Эдуард\Desktop\work\Альбина\CustomsControl\bin\Debug\net10.0\CustomsControl.pdb
+C:\Users\Эдуард\Desktop\work\Альбина\CustomsControl\obj\Debug\net10.0\CustomsControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Эдуард\Desktop\work\Альбина\CustomsControl\obj\Debug\net10.0\CustomsControl.AssemblyInfoInputs.cache
+C:\Users\Эдуард\Desktop\work\Альбина\CustomsControl\obj\Debug\net10.0\CustomsControl.AssemblyInfo.cs
+C:\Users\Эдуард\Desktop\work\Альбина\CustomsControl\obj\Debug\net10.0\CustomsControl.csproj.CoreCompileInputs.cache
+C:\Users\Эдуард\Desktop\work\Альбина\CustomsControl\obj\Debug\net10.0\CustomsControl.dll
+C:\Users\Эдуард\Desktop\work\Альбина\CustomsControl\obj\Debug\net10.0\refint\CustomsControl.dll
+C:\Users\Эдуард\Desktop\work\Альбина\CustomsControl\obj\Debug\net10.0\CustomsControl.pdb
+C:\Users\Эдуард\Desktop\work\Альбина\CustomsControl\obj\Debug\net10.0\CustomsControl.genruntimeconfig.cache
+C:\Users\Эдуард\Desktop\work\Альбина\CustomsControl\obj\Debug\net10.0\ref\CustomsControl.dll

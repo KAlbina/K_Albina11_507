@@ -1,0 +1,14 @@
+C:\Users\Эдуард\Desktop\work\Альбина\Diary\bin\Debug\net10.0\Diary.exe
+C:\Users\Эдуард\Desktop\work\Альбина\Diary\bin\Debug\net10.0\Diary.deps.json
+C:\Users\Эдуард\Desktop\work\Альбина\Diary\bin\Debug\net10.0\Diary.runtimeconfig.json
+C:\Users\Эдуард\Desktop\work\Альбина\Diary\bin\Debug\net10.0\Diary.dll
+C:\Users\Эдуард\Desktop\work\Альбина\Diary\bin\Debug\net10.0\Diary.pdb
+C:\Users\Эдуард\Desktop\work\Альбина\Diary\obj\Debug\net10.0\Diary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Эдуард\Desktop\work\Альбина\Diary\obj\Debug\net10.0\Diary.AssemblyInfoInputs.cache
+C:\Users\Эдуард\Desktop\work\Альбина\Diary\obj\Debug\net10.0\Diary.AssemblyInfo.cs
+C:\Users\Эдуард\Desktop\work\Альбина\Diary\obj\Debug\net10.0\Diary.csproj.CoreCompileInputs.cache
+C:\Users\Эдуард\Desktop\work\Альбина\Diary\obj\Debug\net10.0\Diary.dll
+C:\Users\Эдуард\Desktop\work\Альбина\Diary\obj\Debug\net10.0\refint\Diary.dll
+C:\Users\Эдуард\Desktop\work\Альбина\Diary\obj\Debug\net10.0\Diary.pdb
+C:\Users\Эдуард\Desktop\work\Альбина\Diary\obj\Debug\net10.0\Diary.genruntimeconfig.cache
+C:\Users\Эдуард\Desktop\work\Альбина\Diary\obj\Debug\net10.0\ref\Diary.dll

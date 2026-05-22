@@ -1,0 +1,14 @@
+C:\Users\Эдуард\Desktop\work\Альбина\LinqTasks\bin\Debug\net10.0\LinqTasks.exe
+C:\Users\Эдуард\Desktop\work\Альбина\LinqTasks\bin\Debug\net10.0\LinqTasks.deps.json
+C:\Users\Эдуард\Desktop\work\Альбина\LinqTasks\bin\Debug\net10.0\LinqTasks.runtimeconfig.json
+C:\Users\Эдуард\Desktop\work\Альбина\LinqTasks\bin\Debug\net10.0\LinqTasks.dll
+C:\Users\Эдуард\Desktop\work\Альбина\LinqTasks\bin\Debug\net10.0\LinqTasks.pdb
+C:\Users\Эдуард\Desktop\work\Альбина\LinqTasks\obj\Debug\net10.0\LinqTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Эдуард\Desktop\work\Альбина\LinqTasks\obj\Debug\net10.0\LinqTasks.AssemblyInfoInputs.cache
+C:\Users\Эдуард\Desktop\work\Альбина\LinqTasks\obj\Debug\net10.0\LinqTasks.AssemblyInfo.cs
+C:\Users\Эдуард\Desktop\work\Альбина\LinqTasks\obj\Debug\net10.0\LinqTasks.csproj.CoreCompileInputs.cache
+C:\Users\Эдуард\Desktop\work\Альбина\LinqTasks\obj\Debug\net10.0\LinqTasks.dll
+C:\Users\Эдуард\Desktop\work\Альбина\LinqTasks\obj\Debug\net10.0\refint\LinqTasks.dll
+C:\Users\Эдуард\Desktop\work\Альбина\LinqTasks\obj\Debug\net10.0\LinqTasks.pdb
+C:\Users\Эдуард\Desktop\work\Альбина\LinqTasks\obj\Debug\net10.0\LinqTasks.genruntimeconfig.cache
+C:\Users\Эдуард\Desktop\work\Альбина\LinqTasks\obj\Debug\net10.0\ref\LinqTasks.dll

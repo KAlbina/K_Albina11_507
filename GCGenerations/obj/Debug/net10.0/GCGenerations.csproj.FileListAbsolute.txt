@@ -1,0 +1,14 @@
+C:\Users\Эдуард\Desktop\work\Альбина\GCGenerations\bin\Debug\net10.0\GCGenerations.exe
+C:\Users\Эдуард\Desktop\work\Альбина\GCGenerations\bin\Debug\net10.0\GCGenerations.deps.json
+C:\Users\Эдуард\Desktop\work\Альбина\GCGenerations\bin\Debug\net10.0\GCGenerations.runtimeconfig.json
+C:\Users\Эдуард\Desktop\work\Альбина\GCGenerations\bin\Debug\net10.0\GCGenerations.dll
+C:\Users\Эдуард\Desktop\work\Альбина\GCGenerations\bin\Debug\net10.0\GCGenerations.pdb
+C:\Users\Эдуард\Desktop\work\Альбина\GCGenerations\obj\Debug\net10.0\GCGenerations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Эдуард\Desktop\work\Альбина\GCGenerations\obj\Debug\net10.0\GCGenerations.AssemblyInfoInputs.cache
+C:\Users\Эдуард\Desktop\work\Альбина\GCGenerations\obj\Debug\net10.0\GCGenerations.AssemblyInfo.cs
+C:\Users\Эдуард\Desktop\work\Альбина\GCGenerations\obj\Debug\net10.0\GCGenerations.csproj.CoreCompileInputs.cache
+C:\Users\Эдуард\Desktop\work\Альбина\GCGenerations\obj\Debug\net10.0\GCGenerations.dll
+C:\Users\Эдуард\Desktop\work\Альбина\GCGenerations\obj\Debug\net10.0\refint\GCGenerations.dll
+C:\Users\Эдуард\Desktop\work\Альбина\GCGenerations\obj\Debug\net10.0\GCGenerations.pdb
+C:\Users\Эдуард\Desktop\work\Альбина\GCGenerations\obj\Debug\net10.0\GCGenerations.genruntimeconfig.cache
+C:\Users\Эдуард\Desktop\work\Альбина\GCGenerations\obj\Debug\net10.0\ref\GCGenerations.dll
